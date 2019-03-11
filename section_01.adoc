@@ -1,0 +1,23 @@
+= Секция № 1. Инструменты.
+
+:toc:
+
+== Make
+=== Подробности про make
+
+== Git
+=== Команды для запоминания
+
+== GDB
+=== Команды для запоминания
+
+== Отладка программ в Linux
+=== strace и ltrace
+=== catchsegv
+=== top
+=== ps
+=== pidof и pgrep
+=== proc
+=== lsof
+=== netstat и ip
+=== kill, pkill и killall
