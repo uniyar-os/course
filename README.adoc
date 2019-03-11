@@ -1,9 +1,9 @@
 == Операционные системы
 
-=== Задания
-
-. https://github.com/uniyar-os/hw_01[Задание 1]
-
-=== Дополнительные материалы
+[cols="1,1"]
+|===
+|Секция | Задание
+|https://github.com/uniyar-os/course/blob/master/section_01.adoc[Секция № 1] | https://github.com/uniyar-os/hw_01[Домашняя работа № 1]
+|===
 
 
